@@ -1,3 +1,5 @@
+This project is the second Chapter of my PhD Thesis in quantitative finance.
+
 This paper provides a conceptual and computational roadmap for heterogeneous-agent models in macro-finance, with a sharp focus on what matters for **asset pricing, systemic risk, and quantitative implementation**.
 
 It argues that the dominant modeling paradigms — few-agent models and mean-field games — each miss something essential for finance, and it proposes granular N-player models as the natural middle ground.
